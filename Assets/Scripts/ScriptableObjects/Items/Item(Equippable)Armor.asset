@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca31100f97620d04393a0e23eea94841, type: 3}
+  m_Name: Item(Equippable)Armor
+  m_EditorClassIdentifier: 
+  Name: LeatherArmor
+  Icon: {fileID: 21300000, guid: 2f1eaeeaad36ee5469eff7ff158f37ba, type: 3}
+  EQUIPMENT_TYPE: 1
+  Strenght_Bonus: 0
+  Dexterityt_Bonus: 0
+  Constitution_Bonus: 0
+  Intelligence_Bonus: 0
+  Wisdom_Bonus: 0
+  Charisma_Bonus: 0
+  Strenght_Percent_Bonus: 0
+  Dexterityt_Percent_Bonus: 0
+  Constitution_Percent_Bonus: 0
+  Intelligence_Percent_Bonus: 0
+  Wisdom_Percent_Bonus: 0
+  Charisma_Percent_Bonus: 0
